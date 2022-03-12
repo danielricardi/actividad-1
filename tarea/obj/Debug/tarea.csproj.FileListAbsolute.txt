@@ -1,0 +1,8 @@
+C:\Users\Power\source\repos\C#\tarea\tarea\bin\Debug\tarea.exe.config
+C:\Users\Power\source\repos\C#\tarea\tarea\bin\Debug\tarea.exe
+C:\Users\Power\source\repos\C#\tarea\tarea\bin\Debug\tarea.pdb
+C:\Users\Power\source\repos\C#\tarea\tarea\obj\Debug\tarea.csproj.AssemblyReference.cache
+C:\Users\Power\source\repos\C#\tarea\tarea\obj\Debug\tarea.csproj.SuggestedBindingRedirects.cache
+C:\Users\Power\source\repos\C#\tarea\tarea\obj\Debug\tarea.csproj.CoreCompileInputs.cache
+C:\Users\Power\source\repos\C#\tarea\tarea\obj\Debug\tarea.exe
+C:\Users\Power\source\repos\C#\tarea\tarea\obj\Debug\tarea.pdb
